@@ -1,4 +1,4 @@
-# SparsePETR: Towards Efficient 3D Object Detection with Sparse Foreground Sampling
+# SparseDet: Towards Efficient Multi-view 3D Object Detection via Sparse Scene Representation
 
 ## TO DO
-The core code and detailed information of our SparsePETR will publicly avaliable as soon as our paper is accepted.
+The core code and detailed information of our SparseDet will publicly avaliable as soon as our paper is accepted.
